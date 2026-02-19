@@ -10,10 +10,11 @@ public abstract class BaseView {
         new RegistrationView().init();
     }
     protected void exitApp(){
-        System.out.println("Thank you for using LibraSphere!");
+        System.out.println("Thank you for using NoolNikarchi!");
         System.exit(0);
     }
     public void showMessage(String message) {
         System.out.println(message);
     }
 }
+
