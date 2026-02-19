@@ -167,7 +167,7 @@ public class LibrarySetupView extends BaseView {
 
     public void showMainMenu() {
         while (true) {
-            System.out.println("\n=== LibraSphere Main Menu ===");
+            System.out.println("\n=== NoolNikarchi Main Menu ===");
             System.out.println("1. Manage Books");
             System.out.println("2. View Books");
             System.out.println("3. Borrow Books");
